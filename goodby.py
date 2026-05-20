@@ -1,1 +1,1 @@
-print("Good By My Freind!!")
+print("Good By!!")
